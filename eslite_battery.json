@@ -1,0 +1,2387 @@
+{
+  "facets": {
+    "authors": [
+      {
+        "count": 4,
+        "value": "図書之介"
+      },
+      {
+        "count": 3,
+        "value": "吳燦銘"
+      },
+      {
+        "count": 2,
+        "value": "柳韓彬"
+      },
+      {
+        "count": 2,
+        "value": "楊天賜"
+      },
+      {
+        "count": 1,
+        "value": "Andrea Pippins"
+      },
+      {
+        "count": 1,
+        "value": "Chad Hardy"
+      },
+      {
+        "count": 1,
+        "value": "Hershkowitz-Coore, Sue"
+      },
+      {
+        "count": 1,
+        "value": "Ichiro Kishimi/ Fumitake Koga"
+      },
+      {
+        "count": 1,
+        "value": "Michael Luca/ Max H. Bazerman"
+      },
+      {
+        "count": 1,
+        "value": "Steve Levinson/ Chris Cooper"
+      },
+      {
+        "count": 1,
+        "value": "丹尼爾．品克"
+      },
+      {
+        "count": 1,
+        "value": "亨利．布克比/ 馬文．布克比"
+      },
+      {
+        "count": 1,
+        "value": "共同通信社原発事故取材班/編著;高橋秀樹/編著;"
+      },
+      {
+        "count": 1,
+        "value": "卓天仁"
+      },
+      {
+        "count": 1,
+        "value": "吳燦銘 著、ZCT 策劃"
+      },
+      {
+        "count": 1,
+        "value": "周碩彥/ 莊士鋒/ 林樹達"
+      },
+      {
+        "count": 1,
+        "value": "喬安．李普曼"
+      },
+      {
+        "count": 1,
+        "value": "岸見一郎/ 古賀史健"
+      },
+      {
+        "count": 1,
+        "value": "康斯坦丁．安德里奧普洛斯"
+      },
+      {
+        "count": 1,
+        "value": "朝日新聞出版/編;"
+      },
+      {
+        "count": 1,
+        "value": "森永製菓株式会社/ 監修"
+      },
+      {
+        "count": 1,
+        "value": "榮．理查特/ 馬克．邱奇"
+      },
+      {
+        "count": 1,
+        "value": "江賢龍/ 周進文"
+      },
+      {
+        "count": 1,
+        "value": "盧安娜．馬奇斯"
+      },
+      {
+        "count": 1,
+        "value": "盧安娜．馬奇斯博士（Dr. Luana Marques）"
+      },
+      {
+        "count": 1,
+        "value": "祥恩．貝洛克"
+      },
+      {
+        "count": 1,
+        "value": "簡良諭"
+      },
+      {
+        "count": 1,
+        "value": "納托．湯普森"
+      },
+      {
+        "count": 1,
+        "value": "維偉克．莫西"
+      },
+      {
+        "count": 1,
+        "value": "胡百敬/ 黃雅玲/ 康怡絜"
+      },
+      {
+        "count": 1,
+        "value": "薇奧理卡．瑪利安"
+      },
+      {
+        "count": 1,
+        "value": "蘇珊．亞斯佛"
+      },
+      {
+        "count": 1,
+        "value": "赫齊爾"
+      },
+      {
+        "count": 1,
+        "value": "道格拉斯．盧爾頓"
+      },
+      {
+        "count": 1,
+        "value": "陳聖詠"
+      },
+      {
+        "count": 1,
+        "value": "麥斯．貝澤曼"
+      }
+    ],
+    "categories": [
+      {
+        "count": 677,
+        "value": "42928"
+      },
+      {
+        "count": 646,
+        "value": "3468"
+      },
+      {
+        "count": 644,
+        "value": "42935"
+      },
+      {
+        "count": 604,
+        "value": "6399"
+      },
+      {
+        "count": 576,
+        "value": "42936"
+      },
+      {
+        "count": 535,
+        "value": "7015"
+      },
+      {
+        "count": 59,
+        "value": "7031"
+      },
+      {
+        "count": 42,
+        "value": "43000"
+      },
+      {
+        "count": 31,
+        "value": "3564"
+      },
+      {
+        "count": 30,
+        "value": "3"
+      },
+      {
+        "count": 26,
+        "value": "3478"
+      },
+      {
+        "count": 26,
+        "value": "3499"
+      },
+      {
+        "count": 26,
+        "value": "7789"
+      },
+      {
+        "count": 18,
+        "value": "38552"
+      },
+      {
+        "count": 17,
+        "value": "38555"
+      },
+      {
+        "count": 16,
+        "value": "43001"
+      },
+      {
+        "count": 16,
+        "value": "6467"
+      },
+      {
+        "count": 16,
+        "value": "6468"
+      },
+      {
+        "count": 15,
+        "value": "18410"
+      },
+      {
+        "count": 14,
+        "value": "43054"
+      },
+      {
+        "count": 13,
+        "value": "42950"
+      },
+      {
+        "count": 13,
+        "value": "42951"
+      },
+      {
+        "count": 10,
+        "value": "1582"
+      },
+      {
+        "count": 10,
+        "value": "42937"
+      },
+      {
+        "count": 10,
+        "value": "6402"
+      },
+      {
+        "count": 10,
+        "value": "6414"
+      },
+      {
+        "count": 10,
+        "value": "6418"
+      },
+      {
+        "count": 10,
+        "value": "7023"
+      },
+      {
+        "count": 9,
+        "value": "1057"
+      },
+      {
+        "count": 9,
+        "value": "1674"
+      },
+      {
+        "count": 8,
+        "value": "1098"
+      },
+      {
+        "count": 8,
+        "value": "171"
+      },
+      {
+        "count": 8,
+        "value": "4072"
+      },
+      {
+        "count": 8,
+        "value": "63"
+      },
+      {
+        "count": 7,
+        "value": "68"
+      },
+      {
+        "count": 6,
+        "value": "38643"
+      },
+      {
+        "count": 6,
+        "value": "42060"
+      },
+      {
+        "count": 6,
+        "value": "43025"
+      },
+      {
+        "count": 6,
+        "value": "43037"
+      },
+      {
+        "count": 6,
+        "value": "6407"
+      },
+      {
+        "count": 6,
+        "value": "6411"
+      },
+      {
+        "count": 6,
+        "value": "80"
+      },
+      {
+        "count": 5,
+        "value": "23110"
+      },
+      {
+        "count": 5,
+        "value": "301"
+      },
+      {
+        "count": 5,
+        "value": "42401"
+      },
+      {
+        "count": 5,
+        "value": "42431"
+      },
+      {
+        "count": 5,
+        "value": "42637"
+      },
+      {
+        "count": 5,
+        "value": "46324"
+      },
+      {
+        "count": 5,
+        "value": "47448"
+      },
+      {
+        "count": 5,
+        "value": "47463"
+      },
+      {
+        "count": 5,
+        "value": "612"
+      },
+      {
+        "count": 4,
+        "value": "110"
+      },
+      {
+        "count": 4,
+        "value": "119"
+      },
+      {
+        "count": 4,
+        "value": "120"
+      },
+      {
+        "count": 4,
+        "value": "23133"
+      },
+      {
+        "count": 4,
+        "value": "3472"
+      },
+      {
+        "count": 4,
+        "value": "38571"
+      },
+      {
+        "count": 4,
+        "value": "38572"
+      },
+      {
+        "count": 4,
+        "value": "42773"
+      },
+      {
+        "count": 4,
+        "value": "42949"
+      },
+      {
+        "count": 4,
+        "value": "43039"
+      },
+      {
+        "count": 4,
+        "value": "46329"
+      },
+      {
+        "count": 4,
+        "value": "47446"
+      },
+      {
+        "count": 4,
+        "value": "47690"
+      },
+      {
+        "count": 4,
+        "value": "47693"
+      },
+      {
+        "count": 4,
+        "value": "7022"
+      },
+      {
+        "count": 3,
+        "value": "1076"
+      },
+      {
+        "count": 3,
+        "value": "113"
+      },
+      {
+        "count": 3,
+        "value": "1799"
+      },
+      {
+        "count": 3,
+        "value": "221"
+      },
+      {
+        "count": 3,
+        "value": "37729"
+      },
+      {
+        "count": 3,
+        "value": "40931"
+      },
+      {
+        "count": 3,
+        "value": "40933"
+      },
+      {
+        "count": 3,
+        "value": "42187"
+      },
+      {
+        "count": 3,
+        "value": "42774"
+      },
+      {
+        "count": 3,
+        "value": "42885"
+      },
+      {
+        "count": 3,
+        "value": "42939"
+      },
+      {
+        "count": 3,
+        "value": "42942"
+      },
+      {
+        "count": 3,
+        "value": "43002"
+      },
+      {
+        "count": 3,
+        "value": "43010"
+      },
+      {
+        "count": 3,
+        "value": "47470"
+      },
+      {
+        "count": 3,
+        "value": "618"
+      },
+      {
+        "count": 3,
+        "value": "6404"
+      },
+      {
+        "count": 3,
+        "value": "6723"
+      },
+      {
+        "count": 3,
+        "value": "7032"
+      },
+      {
+        "count": 3,
+        "value": "7038"
+      },
+      {
+        "count": 3,
+        "value": "90"
+      },
+      {
+        "count": 3,
+        "value": "93"
+      },
+      {
+        "count": 2,
+        "value": "1783"
+      },
+      {
+        "count": 2,
+        "value": "1801"
+      },
+      {
+        "count": 2,
+        "value": "1879"
+      },
+      {
+        "count": 2,
+        "value": "214"
+      },
+      {
+        "count": 2,
+        "value": "215"
+      },
+      {
+        "count": 2,
+        "value": "226"
+      },
+      {
+        "count": 2,
+        "value": "28279"
+      },
+      {
+        "count": 2,
+        "value": "285"
+      },
+      {
+        "count": 2,
+        "value": "33308"
+      },
+      {
+        "count": 2,
+        "value": "3403"
+      },
+      {
+        "count": 2,
+        "value": "3406"
+      },
+      {
+        "count": 2,
+        "value": "3471"
+      },
+      {
+        "count": 2,
+        "value": "3527"
+      },
+      {
+        "count": 2,
+        "value": "3780"
+      },
+      {
+        "count": 2,
+        "value": "38585"
+      },
+      {
+        "count": 2,
+        "value": "38588"
+      },
+      {
+        "count": 2,
+        "value": "38649"
+      },
+      {
+        "count": 2,
+        "value": "38651"
+      },
+      {
+        "count": 2,
+        "value": "40981"
+      },
+      {
+        "count": 2,
+        "value": "41004"
+      },
+      {
+        "count": 2,
+        "value": "42311"
+      },
+      {
+        "count": 2,
+        "value": "42314"
+      },
+      {
+        "count": 2,
+        "value": "42432"
+      },
+      {
+        "count": 2,
+        "value": "42441"
+      },
+      {
+        "count": 2,
+        "value": "42507"
+      },
+      {
+        "count": 2,
+        "value": "43003"
+      },
+      {
+        "count": 2,
+        "value": "43006"
+      },
+      {
+        "count": 2,
+        "value": "43045"
+      },
+      {
+        "count": 2,
+        "value": "43087"
+      },
+      {
+        "count": 2,
+        "value": "43110"
+      },
+      {
+        "count": 2,
+        "value": "43150"
+      },
+      {
+        "count": 2,
+        "value": "44146"
+      },
+      {
+        "count": 2,
+        "value": "44149"
+      },
+      {
+        "count": 2,
+        "value": "629"
+      },
+      {
+        "count": 2,
+        "value": "6401"
+      },
+      {
+        "count": 2,
+        "value": "6471"
+      },
+      {
+        "count": 2,
+        "value": "6474"
+      },
+      {
+        "count": 2,
+        "value": "651"
+      },
+      {
+        "count": 2,
+        "value": "7033"
+      },
+      {
+        "count": 1,
+        "value": "114"
+      },
+      {
+        "count": 1,
+        "value": "13517"
+      },
+      {
+        "count": 1,
+        "value": "15"
+      },
+      {
+        "count": 1,
+        "value": "15433"
+      },
+      {
+        "count": 1,
+        "value": "15503"
+      },
+      {
+        "count": 1,
+        "value": "1698"
+      },
+      {
+        "count": 1,
+        "value": "1770"
+      },
+      {
+        "count": 1,
+        "value": "1882"
+      },
+      {
+        "count": 1,
+        "value": "1910"
+      },
+      {
+        "count": 1,
+        "value": "1915"
+      },
+      {
+        "count": 1,
+        "value": "1969"
+      },
+      {
+        "count": 1,
+        "value": "2080"
+      },
+      {
+        "count": 1,
+        "value": "2081"
+      },
+      {
+        "count": 1,
+        "value": "2092"
+      },
+      {
+        "count": 1,
+        "value": "230"
+      },
+      {
+        "count": 1,
+        "value": "23132"
+      },
+      {
+        "count": 1,
+        "value": "27367"
+      },
+      {
+        "count": 1,
+        "value": "27895"
+      },
+      {
+        "count": 1,
+        "value": "27929"
+      },
+      {
+        "count": 1,
+        "value": "27948"
+      },
+      {
+        "count": 1,
+        "value": "295"
+      },
+      {
+        "count": 1,
+        "value": "298"
+      },
+      {
+        "count": 1,
+        "value": "325"
+      },
+      {
+        "count": 1,
+        "value": "327"
+      },
+      {
+        "count": 1,
+        "value": "33157"
+      },
+      {
+        "count": 1,
+        "value": "3430"
+      },
+      {
+        "count": 1,
+        "value": "3473"
+      },
+      {
+        "count": 1,
+        "value": "35229"
+      },
+      {
+        "count": 1,
+        "value": "3526"
+      },
+      {
+        "count": 1,
+        "value": "3529"
+      },
+      {
+        "count": 1,
+        "value": "3530"
+      },
+      {
+        "count": 1,
+        "value": "3631"
+      },
+      {
+        "count": 1,
+        "value": "3642"
+      },
+      {
+        "count": 1,
+        "value": "377"
+      },
+      {
+        "count": 1,
+        "value": "3784"
+      },
+      {
+        "count": 1,
+        "value": "3803"
+      },
+      {
+        "count": 1,
+        "value": "3845"
+      },
+      {
+        "count": 1,
+        "value": "38553"
+      },
+      {
+        "count": 1,
+        "value": "38573"
+      },
+      {
+        "count": 1,
+        "value": "38577"
+      },
+      {
+        "count": 1,
+        "value": "38647"
+      },
+      {
+        "count": 1,
+        "value": "38652"
+      },
+      {
+        "count": 1,
+        "value": "4"
+      },
+      {
+        "count": 1,
+        "value": "41084"
+      },
+      {
+        "count": 1,
+        "value": "42239"
+      },
+      {
+        "count": 1,
+        "value": "42244"
+      },
+      {
+        "count": 1,
+        "value": "42445"
+      },
+      {
+        "count": 1,
+        "value": "42513"
+      },
+      {
+        "count": 1,
+        "value": "42524"
+      },
+      {
+        "count": 1,
+        "value": "42525"
+      },
+      {
+        "count": 1,
+        "value": "42555"
+      },
+      {
+        "count": 1,
+        "value": "42581"
+      },
+      {
+        "count": 1,
+        "value": "42616"
+      },
+      {
+        "count": 1,
+        "value": "42622"
+      },
+      {
+        "count": 1,
+        "value": "42747"
+      },
+      {
+        "count": 1,
+        "value": "42749"
+      },
+      {
+        "count": 1,
+        "value": "42860"
+      },
+      {
+        "count": 1,
+        "value": "42873"
+      },
+      {
+        "count": 1,
+        "value": "43042"
+      },
+      {
+        "count": 1,
+        "value": "43049"
+      },
+      {
+        "count": 1,
+        "value": "43055"
+      },
+      {
+        "count": 1,
+        "value": "43067"
+      },
+      {
+        "count": 1,
+        "value": "43104"
+      },
+      {
+        "count": 1,
+        "value": "43121"
+      },
+      {
+        "count": 1,
+        "value": "43126"
+      },
+      {
+        "count": 1,
+        "value": "43129"
+      },
+      {
+        "count": 1,
+        "value": "4364"
+      },
+      {
+        "count": 1,
+        "value": "46821"
+      },
+      {
+        "count": 1,
+        "value": "46822"
+      },
+      {
+        "count": 1,
+        "value": "47471"
+      },
+      {
+        "count": 1,
+        "value": "47644"
+      },
+      {
+        "count": 1,
+        "value": "5"
+      },
+      {
+        "count": 1,
+        "value": "61"
+      },
+      {
+        "count": 1,
+        "value": "613"
+      },
+      {
+        "count": 1,
+        "value": "615"
+      },
+      {
+        "count": 1,
+        "value": "6441"
+      },
+      {
+        "count": 1,
+        "value": "6448"
+      },
+      {
+        "count": 1,
+        "value": "66"
+      },
+      {
+        "count": 1,
+        "value": "6715"
+      },
+      {
+        "count": 1,
+        "value": "6724"
+      },
+      {
+        "count": 1,
+        "value": "689"
+      },
+      {
+        "count": 1,
+        "value": "690"
+      },
+      {
+        "count": 1,
+        "value": "6957"
+      },
+      {
+        "count": 1,
+        "value": "70"
+      },
+      {
+        "count": 1,
+        "value": "702"
+      },
+      {
+        "count": 1,
+        "value": "7044"
+      },
+      {
+        "count": 1,
+        "value": "7066"
+      },
+      {
+        "count": 1,
+        "value": "7070"
+      },
+      {
+        "count": 1,
+        "value": "7077"
+      },
+      {
+        "count": 1,
+        "value": "83"
+      },
+      {
+        "count": 1,
+        "value": "84"
+      },
+      {
+        "count": 1,
+        "value": "9171"
+      }
+    ],
+    "manufacturers": [
+      {
+        "count": 1,
+        "value": "ALLEN & UNWIN"
+      },
+      {
+        "count": 2,
+        "value": "IDMIX Technology Co.Ltd"
+      },
+      {
+        "count": 1,
+        "value": "Ingram International Inc"
+      },
+      {
+        "count": 1,
+        "value": "Joie International Co"
+      },
+      {
+        "count": 2,
+        "value": "Logitech international S.A."
+      },
+      {
+        "count": 1,
+        "value": "McGraw-Hill Education (Singapore)"
+      },
+      {
+        "count": 1,
+        "value": "MIT PRESS"
+      },
+      {
+        "count": 1,
+        "value": "moft"
+      },
+      {
+        "count": 1,
+        "value": "PERIGEE"
+      },
+      {
+        "count": 1,
+        "value": "TAKARAJIMASHA,Inc.株式会社宝島社"
+      },
+      {
+        "count": 1,
+        "value": "Wide Eyed Editions"
+      },
+      {
+        "count": 6,
+        "value": "中景科技股份有限公司"
+      },
+      {
+        "count": 3,
+        "value": "中興數位科技有限公司"
+      },
+      {
+        "count": 1,
+        "value": "中華大雄股份有限公司"
+      },
+      {
+        "count": 31,
+        "value": "亞瑟國際企業有限公司"
+      },
+      {
+        "count": 15,
+        "value": "佳美能科技股份有限公司"
+      },
+      {
+        "count": 16,
+        "value": "俐冠有限公司"
+      },
+      {
+        "count": 6,
+        "value": "先聲數位服務有限公司"
+      },
+      {
+        "count": 2,
+        "value": "先覺出版股份有限公司"
+      },
+      {
+        "count": 1,
+        "value": "全華圖書股份有限公司"
+      },
+      {
+        "count": 8,
+        "value": "凱潤達有限公司"
+      },
+      {
+        "count": 2,
+        "value": "匯通商行有限公司"
+      },
+      {
+        "count": 4,
+        "value": "博碩文化股份有限公司"
+      },
+      {
+        "count": 1,
+        "value": "台灣角川股份有限公司"
+      },
+      {
+        "count": 30,
+        "value": "台灣飛利浦家電股份有限公司"
+      },
+      {
+        "count": 14,
+        "value": "台灣飛利浦股份有限公司"
+      },
+      {
+        "count": 9,
+        "value": "台科大圖書股份有限公司"
+      },
+      {
+        "count": 8,
+        "value": "哈迪思國際股份有限公司"
+      },
+      {
+        "count": 3,
+        "value": "唐翰有限公司"
+      },
+      {
+        "count": 1,
+        "value": "唯光科技有限公司"
+      },
+      {
+        "count": 1,
+        "value": "商業周刊"
+      },
+      {
+        "count": 2,
+        "value": "國量有限公司"
+      },
+      {
+        "count": 1,
+        "value": "大丞電通有限公司"
+      },
+      {
+        "count": 2,
+        "value": "大塊文化出版股份有限公司"
+      },
+      {
+        "count": 1,
+        "value": "大家"
+      },
+      {
+        "count": 1,
+        "value": "大寫出版"
+      },
+      {
+        "count": 13,
+        "value": "大摩數位有限公司"
+      },
+      {
+        "count": 1,
+        "value": "天下雜誌股份有限公司"
+      },
+      {
+        "count": 15,
+        "value": "宇創國際有限公司"
+      },
+      {
+        "count": 19,
+        "value": "安克创新科技股份有限公司Anker Innovations"
+      },
+      {
+        "count": 5,
+        "value": "富佳泰國際股份有限公司"
+      },
+      {
+        "count": 1,
+        "value": "富弘家電股份有限公司"
+      },
+      {
+        "count": 2,
+        "value": "寫樂文化有限公司"
+      },
+      {
+        "count": 3,
+        "value": "尚宏電子股份有限公司"
+      },
+      {
+        "count": 6,
+        "value": "尚揚有限公司"
+      },
+      {
+        "count": 1,
+        "value": "山祥貿易有限公司"
+      },
+      {
+        "count": 4,
+        "value": "崎昌資訊股份有限公司"
+      },
+      {
+        "count": 1,
+        "value": "巔峰潛能有限公司"
+      },
+      {
+        "count": 4,
+        "value": "廣鼎國際有限公司"
+      },
+      {
+        "count": 3,
+        "value": "慶銘資訊有限公司"
+      }
+    ],
+    "brands": [
+      {
+        "count": 50,
+        "value": "infoThink"
+      },
+      {
+        "count": 37,
+        "value": "LaPO"
+      },
+      {
+        "count": 30,
+        "value": "Philips 飛利浦"
+      },
+      {
+        "count": 30,
+        "value": "PhotoFast"
+      },
+      {
+        "count": 30,
+        "value": "Timo"
+      },
+      {
+        "count": 29,
+        "value": "ONPRO"
+      },
+      {
+        "count": 29,
+        "value": "SNOOPY"
+      },
+      {
+        "count": 27,
+        "value": "omars"
+      },
+      {
+        "count": 24,
+        "value": "迪士尼"
+      },
+      {
+        "count": 21,
+        "value": "iBRIDGE"
+      },
+      {
+        "count": 20,
+        "value": "Roommi"
+      },
+      {
+        "count": 20,
+        "value": "任e行"
+      },
+      {
+        "count": 19,
+        "value": "Anker"
+      },
+      {
+        "count": 19,
+        "value": "KINYO"
+      },
+      {
+        "count": 19,
+        "value": "Momax"
+      },
+      {
+        "count": 17,
+        "value": "iWALK"
+      },
+      {
+        "count": 17,
+        "value": "拉拉熊"
+      },
+      {
+        "count": 14,
+        "value": "iNMARK"
+      },
+      {
+        "count": 13,
+        "value": "MAXIA"
+      },
+      {
+        "count": 12,
+        "value": "ADATA 威剛"
+      },
+      {
+        "count": 11,
+        "value": "solide"
+      },
+      {
+        "count": 10,
+        "value": "Soodatek"
+      },
+      {
+        "count": 9,
+        "value": "Solide"
+      },
+      {
+        "count": 8,
+        "value": "Brook Livin"
+      },
+      {
+        "count": 8,
+        "value": "PHILIPS"
+      },
+      {
+        "count": 8,
+        "value": "maktar"
+      },
+      {
+        "count": 7,
+        "value": "Belkin"
+      },
+      {
+        "count": 7,
+        "value": "KAMERA"
+      },
+      {
+        "count": 6,
+        "value": "FUJITSU"
+      },
+      {
+        "count": 6,
+        "value": "SAVEWO"
+      },
+      {
+        "count": 6,
+        "value": "ZMI"
+      },
+      {
+        "count": 6,
+        "value": "間諜家家酒"
+      },
+      {
+        "count": 5,
+        "value": "ALTI"
+      },
+      {
+        "count": 5,
+        "value": "FJ"
+      },
+      {
+        "count": 5,
+        "value": "GUXON"
+      },
+      {
+        "count": 5,
+        "value": "UNIQ"
+      },
+      {
+        "count": 5,
+        "value": "aircolor"
+      },
+      {
+        "count": 4,
+        "value": "ASPOR"
+      },
+      {
+        "count": 4,
+        "value": "BOONA"
+      },
+      {
+        "count": 4,
+        "value": "INTOPIC"
+      },
+      {
+        "count": 4,
+        "value": "MCK"
+      },
+      {
+        "count": 4,
+        "value": "MOZTECH"
+      },
+      {
+        "count": 4,
+        "value": "NITECORE"
+      },
+      {
+        "count": 4,
+        "value": "PHILIPS 飛利浦"
+      },
+      {
+        "count": 4,
+        "value": "Sanrio"
+      },
+      {
+        "count": 4,
+        "value": "iwalk"
+      },
+      {
+        "count": 4,
+        "value": "非常G車"
+      },
+      {
+        "count": 3,
+        "value": "ADATA"
+      },
+      {
+        "count": 3,
+        "value": "Avier"
+      },
+      {
+        "count": 3,
+        "value": "E-books"
+      },
+      {
+        "count": 3,
+        "value": "ENERGEA"
+      },
+      {
+        "count": 3,
+        "value": "MOA"
+      },
+      {
+        "count": 3,
+        "value": "PHILIPS飛利浦"
+      },
+      {
+        "count": 3,
+        "value": "PHILO"
+      },
+      {
+        "count": 3,
+        "value": "RASTO"
+      },
+      {
+        "count": 3,
+        "value": "Skinarma"
+      },
+      {
+        "count": 3,
+        "value": "moshi"
+      },
+      {
+        "count": 3,
+        "value": "妙管家"
+      },
+      {
+        "count": 2,
+        "value": "70L"
+      },
+      {
+        "count": 2,
+        "value": "AOKING"
+      },
+      {
+        "count": 2,
+        "value": "Choetech"
+      },
+      {
+        "count": 2,
+        "value": "EDGE"
+      },
+      {
+        "count": 2,
+        "value": "G-PLUS拓勤"
+      },
+      {
+        "count": 2,
+        "value": "JELLICO"
+      },
+      {
+        "count": 2,
+        "value": "KZM"
+      },
+      {
+        "count": 2,
+        "value": "Lenovo"
+      },
+      {
+        "count": 2,
+        "value": "Photofast"
+      },
+      {
+        "count": 2,
+        "value": "SHARGE 閃極"
+      },
+      {
+        "count": 2,
+        "value": "SOTHING向物"
+      },
+      {
+        "count": 2,
+        "value": "SWIT"
+      },
+      {
+        "count": 2,
+        "value": "ZENLET"
+      },
+      {
+        "count": 2,
+        "value": "ZERO 零式"
+      },
+      {
+        "count": 2,
+        "value": "eiP"
+      },
+      {
+        "count": 2,
+        "value": "idmix"
+      },
+      {
+        "count": 2,
+        "value": "logitech"
+      },
+      {
+        "count": 2,
+        "value": "miffy"
+      },
+      {
+        "count": 2,
+        "value": "蠟筆小新"
+      },
+      {
+        "count": 1,
+        "value": "ALC"
+      },
+      {
+        "count": 1,
+        "value": "AUKEY"
+      },
+      {
+        "count": 1,
+        "value": "BESTON"
+      },
+      {
+        "count": 1,
+        "value": "Barrack09"
+      },
+      {
+        "count": 1,
+        "value": "DAYA"
+      },
+      {
+        "count": 1,
+        "value": "Fujitsu"
+      },
+      {
+        "count": 1,
+        "value": "GFSD"
+      },
+      {
+        "count": 1,
+        "value": "Infothink"
+      },
+      {
+        "count": 1,
+        "value": "JPOWER"
+      },
+      {
+        "count": 1,
+        "value": "JULY"
+      },
+      {
+        "count": 1,
+        "value": "Joie"
+      },
+      {
+        "count": 1,
+        "value": "Just mobile"
+      },
+      {
+        "count": 1,
+        "value": "KAMI"
+      },
+      {
+        "count": 1,
+        "value": "KONIX"
+      },
+      {
+        "count": 1,
+        "value": "Ledlenser"
+      },
+      {
+        "count": 1,
+        "value": "MOFT"
+      },
+      {
+        "count": 1,
+        "value": "Micorsoft"
+      },
+      {
+        "count": 1,
+        "value": "PONGBOT"
+      },
+      {
+        "count": 1,
+        "value": "PONGBOT 龐伯特"
+      },
+      {
+        "count": 1,
+        "value": "QUICKCAMP"
+      },
+      {
+        "count": 1,
+        "value": "Rilakkuma"
+      },
+      {
+        "count": 1,
+        "value": "SAMSUNG"
+      },
+      {
+        "count": 1,
+        "value": "Silicon Power 廣穎"
+      },
+      {
+        "count": 1,
+        "value": "TORRAS"
+      },
+      {
+        "count": 1,
+        "value": "XGIMI"
+      },
+      {
+        "count": 1,
+        "value": "infothink"
+      },
+      {
+        "count": 1,
+        "value": "【勳風】"
+      },
+      {
+        "count": 1,
+        "value": "台灣角川(股)精品"
+      }
+    ],
+    "tags": [
+      {
+        "count": 109,
+        "value": "廠商直送"
+      },
+      {
+        "count": 61,
+        "value": "誠品排行榜"
+      },
+      {
+        "count": 2,
+        "value": "誠品選書"
+      }
+    ],
+    "is_book": [
+      {
+        "count": 42,
+        "value": "yes"
+      }
+    ],
+    "is_ebook": [
+      {
+        "count": 3,
+        "value": "yes"
+      }
+    ],
+    "painters": [
+      {
+        "count": 1,
+        "value": "Jamia Wilson"
+      }
+    ],
+    "translators": [
+      {
+        "count": 2,
+        "value": "陳筱宛"
+      },
+      {
+        "count": 1,
+        "value": "劉恆昌/ 侯秋玲"
+      },
+      {
+        "count": 1,
+        "value": "吳秀蘭"
+      },
+      {
+        "count": 1,
+        "value": "周佳欣"
+      },
+      {
+        "count": 1,
+        "value": "周倩如"
+      },
+      {
+        "count": 1,
+        "value": "廖建容"
+      },
+      {
+        "count": 1,
+        "value": "林麗雪"
+      },
+      {
+        "count": 1,
+        "value": "江利"
+      },
+      {
+        "count": 1,
+        "value": "沈維君"
+      },
+      {
+        "count": 1,
+        "value": "胡欣蘭"
+      },
+      {
+        "count": 1,
+        "value": "葉小燕"
+      },
+      {
+        "count": 1,
+        "value": "趙盛慈"
+      },
+      {
+        "count": 1,
+        "value": "鍾玉玨"
+      },
+      {
+        "count": 1,
+        "value": "陳重亨"
+      }
+    ],
+    "attr_features": [],
+    "attr_brands": [],
+    "attr_ingredients": [],
+    "attr_sizes": [],
+    "attr_types": [],
+    "attr_colors": [],
+    "attr_targets": [],
+    "attr_weights": [],
+    "attr_capacities": []
+  },
+  "results": [
+    {
+      "id": "10052220742682474615003",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "KINYO"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "‧Type-C＋蘋果接頭雙選擇，可同時為2台裝置充電！\n‧通過台灣商檢安規認證，具多重安全保護機制，使用安心有保障。\n‧智慧IC智能辨識，保護裝置效能最大化，自動為裝置調整最佳輸出功率。\n\n電池容量：10000mAh / 37Wh\n額定容量(最大放電)：6000mAh (5V)\n輸入電壓/電流：(Type-C) DC 5V 2A\n輸出電壓/電流：\n(Type-C) DC 5V 2.1A\n(蘋果) DC 5V 2.1A\n合計輸出：DC 5V 2.1A Max\n產品材質：塑膠\n配",
+      "editor": "",
+      "final_price": "999",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "KPB2303BU",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "耐嘉股份有限公司"
+      ],
+      "name": "大方塊行動電源",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/vendor/KINYO20231102120336/mainCoverImage1_1174524.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682474615003",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052134952682916758008",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "moshi"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "•10,000mAh 電芯容量，具高品質且優良的電池放電技術，為電池實現更多充電週期\n•內置雙 USB-C 充電線以及 USB-A 端口，可同時為多達3台設備充電 (USB-C1/USB-C2/USB-A)\n•低內阻和低自放電率，可待機長達6個月以上\n•SmartSense™ 同充同放技術可同時為 IonGo 10K Duo-C 電池以及外接 USB-C 設備充電\n•高速雙向充電可使內置 USB-C 充電線提供和支援高達 30W 的輸入和輸出效能\n•嚴選優質皮革面料及金屬磁吸",
+      "editor": "",
+      "final_price": "3690",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "99MO243301",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "尚宏電子股份有限公司"
+      ],
+      "name": "moshi IonGo 10K Duo-C PD充電帶線行動電源/ 雙USB-C充電線/ 岩石黑",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2025/06/03/8546_141154321_730_mainCoverImage1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682916758008",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052279142682865026005",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "Anker"
+      ],
+      "categories": [
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "30W 雙向高速充電：使用自帶USB-C線實現雙向快充。只需30分鐘內將iPhone 14充電至50%，或在45分鐘即可將行動電源充電至50%\n體積小、10,000mAh效能強大：尺寸僅為4.09*2.06*1.02英寸，以輕巧尺寸攜帶大量電力\n輕鬆便攜，動力無窮：憑藉自帶的USB-C線，享受輕鬆的便攜性和不間斷電源，並配有內置手柄、方便攜帶\n內建彩色螢幕，輕鬆追蹤您的充電狀態！\n替環保盡一份心力：透過材料選擇和製造實踐，外殼由80%的消費後再生塑膠(PCR)製成，減少碳排放",
+      "editor": "",
+      "final_price": "1490",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "PAKAB028",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "安克创新科技股份有限公司Anker Innovations"
+      ],
+      "name": "Anker A1259 533 Power Bank 行動電源 10000mAh/ 黑",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/vendor/vendor174314938502020250328160945/mainCoverImage1_1415967.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682865026005",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052220742682474621004",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "KINYO"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "2孔全兼容快充：\nUSB-A接孔超快充，最高支援QC 22.5W\nType-C接孔雙向快充，最高支援PD 20W\n※智慧IC智能辨識，針對不同裝置自動調整為最佳輸出功率，效能最大化\n\n【充電器模式】\n輸入電壓/電流：AC 100V-240V~50/60Hz\n\n【行動電源模式】\n輸出電壓/電流：\nType-C接孔：DC 5V⎓2.4A/9V⎓2.22A/12V⎓1.5A\nUSB-A接孔：DC 5V⎓3A/9V⎓2A/12V⎓1.5A\nType-C線材：DC 5V⎓3A\n蘋果線材",
+      "editor": "",
+      "final_price": "1780",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "KPB2650W",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "耐嘉股份有限公司"
+      ],
+      "name": "KINYO七合一行動電源/ 白/ KPB-2650W",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/vendor/KINYO20231102120336/mainCoverImage1_1174528.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682474621004",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052154092682810791002",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "PhotoFast"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "型號：MUTICHARGETHIRD\n材質：塑膠+電子元件\n重量：220g ± 5g\n尺⼨：88.6mm (L) x 67.9mm (W) x 31.2mm (H)\n容量：10000mAh(3.8V 38.5WH)\n額定容量：5V/6500mAh, 9V/3600mAh, 12V/2600mAh\n充電協議：相容於Qi2、Qi | PD3.0/PPS | APPLE 2.4A\nAC充電模式：5V⎓2A(10W)\nAC輸入：AC100-240V, 50/60Hz, 0.5A\nLi",
+      "editor": "",
+      "final_price": "1890",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "本鄉電子禮品有限公司"
+      ],
+      "name": "PhotoFast AllDay充多功能行動電源/ 沙漠",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/12/17/8959_160858901_380_5.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682810791002",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052285332682616411005",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "LaPO"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "・ 額定容量 6500mAh 增至 6750mAh\n・ 無需直接充 Apple Watch 無需配件\n・ 自帶線長度增長 42% 使用更順手\n・ 磁吸對位升級至 10N 來電震動也超穩\n・ 特製奈米漆 金屬烤漆高質感\n・ 雙線雙版本 滿足各種充電需求（TYPE-C雙線、TYPE-C/Lightning各一）\n・ AC插頭效率再升級 充到飽縮時有感",
+      "editor": "",
+      "final_price": "1780",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "WT-08TC/GD",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "祐晟國際有限公司"
+      ],
+      "name": "LaPO 超進化八合一 10000mAh 無線快充行動電源 WT-08/ TYPE-C+TYPE-C/ 琉光金",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/07/26/754_183929967_876_5.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682616411005",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052154092682548737006",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "PHILIPS"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "型號：DLP4347C\n額定容量(USB-C/USB-A)：6500mAh @5V, 3550mAh @9V, 2550mAh @12V\n額定容量(Lightning/USB-C cable)：6500mAh @5V\nAC 輸入：100-240V~50/60Hz 0.3A(Max.)\nUSB-C輸入：5V⎓3A, 9V⎓2A, 12V⎓1.5A(Max.：18W)\nUSB-C輸出：5V⎓3A, 9V⎓2.22A, 12V⎓1.67A(Max.：20W)\nUSB-A輸出：5V⎓",
+      "editor": "",
+      "final_price": "1590",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "台灣飛利浦股份有限公司"
+      ],
+      "name": "PHILIPS飛利浦10000mAh多功能十合一行動電源/ 野性綠",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/04/10/481_132121975_92_mainCoverImage1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682548737006",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052220742682474642009",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "KINYO"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "2孔全兼容快充：\nUSB-A接孔超快充，最高支援QC 22.5W\nType-C接孔雙向快充，最高支援PD 20W\n※智慧IC智能辨識，針對不同裝置自動調整為最佳輸出功率，效能最大化\n\n【充電器模式】\n輸入電壓/電流：AC 100V-240V~50/60Hz\n\n【行動電源模式】\n輸出電壓/電流：\nType-C接孔：DC 5V⎓2.4A/9V⎓2.22A/12V⎓1.5A\nUSB-A接孔：DC 5V⎓3A/9V⎓2A/12V⎓1.5A\nType-C線材：DC 5V⎓3A\n蘋果線材",
+      "editor": "",
+      "final_price": "1780",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "KPB2650PI",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "耐嘉股份有限公司"
+      ],
+      "name": "KINYO七合一行動電源/ 粉/ KPB-2650PI",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/vendor/KINYO20231102120336/mainCoverImage1_1174527.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682474642009",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052263962682843831003",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "SHARGE 閃極"
+      ],
+      "categories": [
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "■ 支援邊充邊放，可作不間斷電源\n■ 可直接上飛機\n■ 全彩智慧控制系統\n■ 3-25V可調DC口\n■ 多快充協議相容\n■ 全透明外殼設計\n■ BSMI：R3E818",
+      "editor": "",
+      "final_price": "7900",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "秋永行銷科技有限公司"
+      ],
+      "name": "SHARGE 閃極 SUPER POWER BANK 超級行動電源 STM2-2 公司貨",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2025/02/24/12438_103038709_205_mainCoverImage1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682843831003",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052244042682915036008",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "GUXON"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "產品型號：GFC10000\n輸入：Type-C: 5V⎓3A, 9V⎓2A, 12V⎓.5A \n　　　Type-C線: 5V⎓3A, 9V⎓2A, 12V⎓1.5A\n輸出：Type-C: 5V⎓2.4A, 9V⎓2.22A, 10V⎓2.25A, 12V⎓1.67A \n　　　Type-C線: 5V⎓2.4A, 9V⎓2.22A, 10V⎓2.25A, 12V⎓1.67A\n　　　Lightning線: 5V⎓2.4A, 9V⎓2.22A\nType-C+Type-C線+Light",
+      "editor": "",
+      "final_price": "790",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "BA-10000-GFS",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "本鄉電子禮品有限公司"
+      ],
+      "name": "【GUXON古尚】巧方塊雙線10000mAh行動電源/ 月光銀",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2025/05/28/8959_151415082_86_1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682915036008",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "1005451642682326365001",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "任e行"
+      ],
+      "categories": [
+        "休閒戶外 \u003E 露營設備 \u003E 插座／延長線／電源"
+      ],
+      "description": "【任e行】JS92 39000mAh 150W 戶外行動電源 停電個人應急電源 AC DC USB供應",
+      "editor": "",
+      "final_price": "6480",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "JS92",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "連莊興業有限公司"
+      ],
+      "name": "【任e行】JS92 39000mAh 150W 戶外行動電源 停電個人應急電源 AC DC USB供應",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/upload/product/o/2682326365001/20230113054242526698.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682326365001",
+      "isbn10": "",
+      "mch": "524CCF800"
+    },
+    {
+      "id": "10052154092682800084008",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "PhotoFast"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "磁吸充電，精準對位不卡鏡頭\n史上最薄13mm厚度，比薄還要更薄\n磁吸面選用特殊的「類皮革漆」來增加摩擦力，讓手機牢牢吸附不跑位、不掉落\n磁吸無線+有線 可同時為兩台裝置充電\n通過台灣商檢局BSMI認證 安心有保障\n薄霧金屬光澤 鋁合金工藝 百搭好配",
+      "editor": "",
+      "final_price": "1790",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "BA-PFM-S1",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "本鄉電子禮品有限公司"
+      ],
+      "name": "PhotoFast Mag Slim超薄磁吸無線行動電源/ 10000mAh/ 太空灰",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/11/29/8959_181251220_268_0.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682800084008",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052285332682915182002",
+      "authors": null,
+      "availability": "PREORDER",
+      "brands": [
+        "LaPO"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "・全功能八合一超進化設計，最高支援5台設備同時充電\n・LaPO訂製電芯，電芯容量43.12Wh可攜帶登機，額定容量7800mAh\n・內建2合1無線充電線圈模組，配有10N強力磁環，磁吸功能更便利\n・自帶Apple Watch無線充，無需再外接配件充電（適用WatchOS 9以上版本）\n・自帶2條20W快充充電線18.5cm，滿足各種裝置快充需求\n・自帶線通過SGS 10萬次彎折/搖擺測試，為業界最高規格\n・USB-A口及USB-C口支援QC/PD協議，提供最高20W快速充電\n",
+      "editor": "",
+      "final_price": "1980",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "WT-08P CC/GY",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "祐晟國際有限公司"
+      ],
+      "name": "LaPO 全功能無線充電行動電源 WT-08P/ 城影灰/ Type-C+Type-C",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2025/05/27/754_201613949_835_5.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682915182002",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052285332682579330009",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "LaPO"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "・QC/PD3.0雙協議快充，18W大功率快速充電\n・2種自帶線+雙口輸出，最高支援五台設備同時充電\n・隱藏手機支架，LED電量顯示，90度旋轉收納插頭\n・全方位安全機制保護：過充保護、短路保護、電芯保護...等\n・BSMI認證/NCC認證/歐洲CE認證/美國FCC認證\n・此商品已投保5000萬產險",
+      "editor": "",
+      "final_price": "1780",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "WT-03CM/COOL BROWN",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "祐晟國際有限公司"
+      ],
+      "name": "【LaPO】升級二代WT-03CM 多功能無線充行動電源 10000mAh/ 奶茶色",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/05/22/754_170631616_12_6.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682579330009",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052154092682810786008",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "PhotoFast"
+      ],
+      "categories": [
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "型號：MUTICHARGETHIRD\n材質：塑膠+電子元件\n重量：220g ± 5g\n尺⼨：88.6mm (L) x 67.9mm (W) x 31.2mm (H)\n容量：10000mAh(3.8V 38.5WH)\n額定容量：5V/6500mAh, 9V/3600mAh, 12V/2600mAh\n充電協議：相容於Qi2、Qi | PD3.0/PPS | APPLE 2.4A\nAC充電模式：5V⎓2A(10W)\nAC輸入：AC100-240V, 50/60Hz, 0.5A\nLi",
+      "editor": "",
+      "final_price": "1890",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "本鄉電子禮品有限公司"
+      ],
+      "name": "PhotoFast AllDay充多功能行動電源/ 白色",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/12/17/8959_160827520_631_3.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682810786008",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052181202682816571004",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "aircolor"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "⚡️多功磁吸無線充，手機/耳機/Apple Watch都適用\n⚡️減積減重30%，10000mAh超大容量\n⚡️超強磁吸力9.5N，精準對位快速充電\n⚡️雙向充電 Type-C 快充線設計，直接為電池補電\n⚡️急速充電，自帶TYPE-C/Lightning雙線20W快充\n⚡️超強補電站，可同時為四台裝置進行充電\n⚡️高精度NTC熱敏電阻晶片\n⚡️美國UL94最高等級耐燃材質外殼\n⚡️電池PCM電路保護模組\n⚡️配置高質感數位電量顯示器\n⚡️磁吸充電模式，隱形手機支架",
+      "editor": "",
+      "final_price": "1580",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "富佳泰國際股份有限公司"
+      ],
+      "name": "aircolor雲朵系六合一磁吸快充行動電源/ 奶茶米",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2025/01/24/3192_164956395_578_mainCoverImage1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682816571004",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052154092682568659005",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "SNOOPY"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "材質：ABS塑膠+防火PC塑膠\n重量：257g\n尺寸：130x158x40mm\n\n輸入：AC充電輸入：100-240V~0.5A 50/60Hz\n　　　AC充電功率：12V/1.5A(18W)\n      DC充電輸入：Type-C1(5V/2.4A,9V/2A,12/1.5A)\n輸出：Type-C1：5V/2.4A,9V/2.22A,12V/1.67A\n　　　Type-A：5V/3A,9V/2A,12V/1.5A\n　　　Type-C線：5V/3A\n　　　Lightning線",
+      "editor": "",
+      "final_price": "1680",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "本鄉電子禮品有限公司"
+      ],
+      "name": "SNOOPY七合一12000mAh雙線磁吸無線充行動電源/ 彩虹(白)",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/04/30/481_165405824_961_2.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682568659005",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052289882682472656008",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "ADATA 威剛"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "P20000QCD 極速快充行動電源，擁有 20000mAh 大容量的高效能鋰聚合物電芯，並且支援主流的 Qualcomm QC 3.0 / USB PD 3.0 快充技術，不論使用哪一款手機，都能快速補充電量。採用的 USB-C 接口支援最新雙向充電功能，提供多達 3 個 USB 接口輸出電量，同時對三個行動裝置充電也不是問題。搭載數位式電量顯示，不用再看燈號猜電量，更能精準掌控電量使用狀態。\n\n電池容量：20,000mAh (74Wh)\n額定容量：12,800mAh\n電池",
+      "editor": "",
+      "final_price": "849",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "PBADP20KQCDK",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "宇創國際有限公司"
+      ],
+      "name": "ADATA 威剛 P20000QCD 20000mAh 18W 3孔輸出 PD/QC 大容量 快充行動電源(電量數位顯示)-黑",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2025/03/12/7879_153203571_250_mainCoverImage1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682472656008",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052285272682561271006",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "SAMSUNG"
+      ],
+      "categories": [
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "品牌：Samsung\n產品名稱：10000mAh自帶線掛繩式行動電源\n產品型號：ITFITPW21LB\n顏色： 藍\nBSMI：R35032\n產品材質：ABS、鋰電子電池\n額定容量：6200mAh 5V、3300mAh 9V、2400mAV 12V\n電芯容量：36.5Wh(3.65V)\nUSB-C輸入：5V==2.5A,9V==2A,12V==1.5A\n輸出：5V==3A、9V==2.22A、12v==1.67A\nUSB-C充電線：5V==2.5A,9V==2A,12V==1.",
+      "editor": "",
+      "final_price": "880",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "P003ITFITPW21LB",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "大摩數位有限公司"
+      ],
+      "name": "三星 SAMSUNG 10000mAh 自帶線掛繩式行動電源 ITFITPW21LB 藍色",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/newItem/2024/04/19/2398_115128153_522_mainCoverImage1.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682561271006",
+      "isbn10": "",
+      "mch": "523CCB210"
+    },
+    {
+      "id": "10052202422682868533005",
+      "authors": null,
+      "availability": "IN_STOCK",
+      "brands": [
+        "ONPRO"
+      ],
+      "categories": [
+        "3C \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源",
+        "3C家電 \u003E 手機平板／智慧週邊 \u003E 電池／行動電源"
+      ],
+      "description": "支援iPhone MagSafe磁吸無線快充\n支援apple Watch無線充電\n支援AirPods充電盒無線充電\n海量10000mAh 鋰聚合物電芯",
+      "editor": "",
+      "final_price": "1599",
+      "has_trial": "no",
+      "is_book": "no",
+      "is_ebook": "no",
+      "manufacturer_sn": "MAGREACT™ M5-WH",
+      "publish_time": "1970-01-01T00:00:00Z",
+      "manufacturers": [
+        "鴻普光電股份有限公司"
+      ],
+      "name": "MagReact™ M5 5 in 1磁吸行動電源/ 冰雪白",
+      "painter": "",
+      "product_photo_url": "https://s.eslite.com/b2b/vendor/vendor174349750267120250401165143/mainCoverImage1_1417527.jpg",
+      "restricted": "no",
+      "translator": "",
+      "eslite_sn": "2682868533005",
+      "isbn10": "",
+      "mch": "523CCB210"
+    }
+  ],
+  "page_no": 1,
+  "page_size": 20,
+  "total_size": 776,
+  "attribution_token": "iwHwigoMCO7rx8MGEJiD2fkCEAEaJDY4NzhmZWNkLTAwMDAtMmFjMi1hZTFlLTNjMjg2ZDNiMzIyZSoBMTI4m9a3LcXL8xeOvp0V1LKdFcLwnhW3t4wto4CXIqjlqi2Q97Iwmu7GMI6RyTDHlvAwyZbwMJjWty06DmRlZmF1bHRfc2VhcmNoSAFoAXoCc2k",
+  "filter": "attributes.status=1 AND originalPrice:IN(0,2147483647)"
+}
